@@ -1,0 +1,32 @@
+.boiteBlue{
+    color: blue;
+    width: 90vw;
+    height: 90vh;
+    border: 5px blue solid;
+
+    .cercleVert {
+        background-color: green;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+
+
+    }
+
+    .rectangleViolet {
+          background-color: purple;
+          width: 200px;
+          height: 100px;
+      }
+
+    .tagliatelle {
+        width: 200px;
+        height: 200px;
+    }
+
+    .lasagne {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+}
